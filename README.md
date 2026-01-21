@@ -1,8 +1,8 @@
 
 
-This repository is the official implementation of [DOPE]
+This repository is the official implementation of [LGK]
 
-
+![framework](files/teaser.png)
 
 ## Requirements
 
