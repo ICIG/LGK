@@ -2,7 +2,7 @@
 
 This repository is the official implementation of [LGK]
 
-![framework](files/teaser.png)
+![framework](11/image.png)
 
 ## Requirements
 
